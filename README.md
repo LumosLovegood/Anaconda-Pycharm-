@@ -1,13 +1,18 @@
 # Anaconda-Pycharm-
 本说明为Anaconda和Pycharm安装及配置教程，参考《搭建 Python 高效开发环境： Pycharm + Anaconda》(https://zhuanlan.zhihu.com/p/140485845)，
 ## 目录
-1. 文件说明
-1. Pycharm安装
-1. Jetbrain教育账号申请(包含Pycharm专业版)
-1. Anaconda安装
-1. 配置Anaconda下的Pycharm
-1. conda常用命令
-1. conda配置清华源 
+- [文件说明](#----)
+- [Pycharm安装](#pycharm--)
+  * [专业版与社区版的区别](#----------)
+  * [安装](#--)
+- [Jetbrain教育账号申请](#jetbrain------)
+- [Anaconda安装](#anaconda--)
+- [配置Anaconda base环境下的Pycharm](#--anaconda-base----pycharm)
+- [conda常用命令](#conda----)
+- [conda配置清华源](#conda-----)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## 文件说明
 文件夹下包含有以下安装包和本说明，本说明最后编辑于 _2020年11月19日_ ，如安装包版本有更新，可点击下面相应的安装包名称进入官网下载页。
