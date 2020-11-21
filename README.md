@@ -7,7 +7,7 @@
   * [安装](#安装)
 - [Jetbrain教育账号申请](#Jetbrain教育账号申请)
 - [Anaconda安装](#Anaconda安装)
-- [配置Anaconda base环境下的Pycharm](#配置Anaconda base环境下的Pycharm)
+- [配置Anaconda_base环境下的Pycharm](#配置Anaconda_base环境下的Pycharm)
 - [conda常用命令](#conda常用命令)
 - [conda配置清华源](#conda配置清华源)
 
@@ -75,7 +75,7 @@
 1. 选择next <br>
 ![](https://github.com/LumosLovegood/Anaconda-Pycharm-/blob/main/attachments/19.png)
 
-## 配置Anaconda base环境下的Pycharm
+## 配置Anaconda_base环境下的Pycharm
 1. 新建项目<br>
 ![](https://github.com/LumosLovegood/Anaconda-Pycharm-/blob/main/attachments/20.png)
 1. 配置项目路径和解释器，选择已存在的解释器，点击右方的三个点<br>
