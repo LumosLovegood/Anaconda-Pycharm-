@@ -1,7 +1,7 @@
 # Anaconda-Pycharm-
 本说明为Anaconda和Pycharm安装及配置教程，参考《搭建 Python 高效开发环境： Pycharm + Anaconda》(https://zhuanlan.zhihu.com/p/140485845)，
 ## 目录
-- [文件说明](#----)
+- [文件说明](#文件说明)
 - [Pycharm安装](#pycharm--)
   * [专业版与社区版的区别](#----------)
   * [安装](#--)
